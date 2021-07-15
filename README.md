@@ -27,4 +27,4 @@
 * Creates a vector map of bee movements in the frame
 * Exploration of PIV as a way of tracking individual bee movements.
 Works well with stock footage from US observation hives but was found to have 
-issues when applied to footage from the Plymouth hives due to reflections in the viewing window.
+issues when applied to footage from the Plymouth hive due to reflections in the viewing window.
