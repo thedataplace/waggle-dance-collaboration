@@ -15,12 +15,10 @@
 ### Bee tracker
 
 * Draws a line on the video showing where an individual bee has gone
-* 
 
 ### Optical flow
 
-* Draws a line on the video showing where an individual bee has gone
-* 
+* Outputs a visual map showing where individual bees have gone
 
 ### Particle image velocimetry 
 
